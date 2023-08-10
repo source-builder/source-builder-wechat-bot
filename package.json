@@ -1,0 +1,17 @@
+{
+  "name": "source-builder-wechat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/node": "^2.15.9",
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1"
+  }
+}
